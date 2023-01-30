@@ -2,7 +2,7 @@
 
 <h2>Home</h2>
 <img src="https://github.com/oducoelho/NLW-Setup/blob/master/images/habits.JPG"/>
-<h2>Schedulings</h2>
+<h2>New Habit</h2>
 <img src="https://github.com/oducoelho/NLW-Setup/blob/master/images/new%20habit.JPG"/>
 
 ## :memo: Description
